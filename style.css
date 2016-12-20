@@ -1,0 +1,128 @@
+
+#header {
+    border: 1px solid #BDB76B;
+    background-color: #F5F5DC;
+    min-width: 1280px;
+    height: 50px;
+    text-align: center;
+    padding-top: 18px;
+    font-family: Georgia;
+
+}
+
+
+#center {
+    width: 1280px;
+    margin: 0 auto;
+    font-family: Georgia;
+}
+
+#header a {
+    color: #4d4d4d;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+    text-decoration: none;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    font-family: Georgia;
+}
+
+#header span {
+    padding: 38px;
+    font-family: Georgia;
+}
+
+#content {
+    height: 500px;
+    min-width: 1200px; 
+    font-family: Georgia; 
+}
+
+#content h1 {
+    min-width: 1200px;
+    text-align: center;
+    color: #35363B;
+    font-size: 40px;
+    font-weight: 300;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    font-family: Georgia;
+    background-color: #FFFFF0;
+}
+
+#content h3 {
+    min-width: 1200px;
+    text-align: right;
+    color: #35363B;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-family: Georgia;
+    background-color: #FFFFF0;
+}
+#content h4 {
+    min-width: 1200px;
+    text-align: right;
+    color: #35363B;
+    font-size: 23px;
+    font-weight: 500;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-family: Georgia;
+    background-color: #FFFFF0;
+}
+ #content h5{
+     text-align: right;
+     text-decoration-style: italic;
+     font-family: Georgia;
+     background-color: #FFFFF0;
+
+ }
+
+#content #box_text {
+    width: 700px;
+    float: center;
+    padding: 15px 50px 50px 300px;
+    font-family: Georgia;
+    background-color: #FFFFF0;
+}
+
+
+#box_text p {
+    font-family: Georgia;
+    text-align: justify;
+    background-color: #FFFFF0;
+}
+
+#box_text b {
+    font-family: Georgia;
+    font-size: 18px;
+    background-color: #FFFFF0;
+}
+
+#box_text h2 {
+    font-family: Georgia;
+    font-size: 18px;
+    background-color: #FFFFF0;
+}
+
+#box_text li {
+    font-family: Georgia;
+    font-size: 17px;
+    background-color: #FFFFF0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
